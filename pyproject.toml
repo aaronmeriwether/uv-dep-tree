@@ -20,9 +20,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/p120ph37/uv-dep-tree"
-Repository = "https://github.com/p120ph37/uv-dep-tree"
-Issues = "https://github.com/p120ph37/uv-dep-tree/issues"
+Homepage = "https://github.com/aaronmeriwether/uv-dep-tree"
+Repository = "https://github.com/aaronmeriwether/uv-dep-tree"
+Issues = "https://github.com/aaronmeriwether/uv-dep-tree/issues"
 
 [project.scripts]
 uv-dep-tree = "uv_dep_tree:main"
